@@ -59,3 +59,12 @@ CONCLUSION:
 Decision Trees are a fundamental and powerful machine learning technique known for their interpretability, ease of use, and effectiveness. They can model complex decision boundaries and are particularly useful in domains where understanding the decision-making process is as important as the prediction itself. However, they are susceptible to overfitting, especially when the tree becomes too deep. Techniques such as pruning, cross-validation, or ensemble methods like Random Forests and Gradient Boosted Trees are often used to mitigate this.
 
 In conclusion, decision trees are a crucial tool in the machine learning toolbox. Their clear logic and robust performance on structured data make them widely used in practice, especially in fields where decision transparency and accountability are vital.
+
+OUTPUT:
+![Image](https://github.com/user-attachments/assets/15515ed4-43ac-4ad7-a361-fa8f7a501e66)
+
+![Image](https://github.com/user-attachments/assets/b935ba24-35c8-41d7-83a8-f887126f9594)
+
+![Image](https://github.com/user-attachments/assets/67cde4c2-006f-4546-b3c4-32b24873fb26)
+
+![Image](https://github.com/user-attachments/assets/7e86cf20-7ff5-402d-ae88-08a2a9a467c8)
